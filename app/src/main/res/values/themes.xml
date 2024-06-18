@@ -5,5 +5,7 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.MentorConnect" parent="Base.Theme.MentorConnect" />
+    <style name="Theme.MentorConnect" parent="Base.Theme.MentorConnect" >
+        <item name="android:fontFamily">@font/this_cafe</item>
+    </style>
 </resources>
